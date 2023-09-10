@@ -34,6 +34,12 @@ Master-slave и master-master режимы репликации отличают
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
+#### ОТВЕТ:
+![Скриншот-1](https://github.com/Monooks/12-06_NetoHW/blob/main/img/12.06_1.png)
+![Скриншот-2](https://github.com/Monooks/12-06_NetoHW/blob/main/img/12.06_2.png)
+![Скриншот-3](https://github.com/Monooks/12-06_NetoHW/blob/main/img/12.06_3.png)
+![Скриншот-4](https://github.com/Monooks/12-06_NetoHW/blob/main/img/12.06_4.png)
+![Скриншот-5](https://github.com/Monooks/12-06_NetoHW/blob/main/img/12.06_5.png)
 ---
 
 ## Дополнительные задания (со звёздочкой*)
